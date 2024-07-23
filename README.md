@@ -15,6 +15,6 @@ API Documentation: Documented the APIs using Swagger for easy access and underst
 API Hosting: Deployed the APIs on Azure API Management (APIM) for secure and scalable access.
 
 Access to APIs:
-The final interface to access the APIs is available at GeoST4R APIM.
+The final interface to access the APIs is available at GeoST4R APIM - https://geost4r-apim.developer.azure-api.net/.
 Note: Access is restricted to authenticated users only, as this project is intended for organizational use and is not publicly accessible.
 
